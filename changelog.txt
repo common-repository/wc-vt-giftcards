@@ -1,0 +1,7 @@
+*** Woocommerce Valutec Gift Card Changelog ***
+
+2016.08.20 - version 1.0.0
+ * Initial release
+
+2016.09.05 - version 1.0.1
+ * Add FAQ and rename plugin file because trademarks
